@@ -1,6 +1,6 @@
 # PHP_Practice
 ## My Preparation  
-- MariaDB base on Linux System
+- MariaDB base on Linux System (http://yhhuang1966.blogspot.com/2019/12/apachemysqlphp7.html)
 - **gedit** Package (To install Package: `sudo apt-get install gedit`)  
 ## Explantion about files
 These files are use in order system, connect between Android App and MariaDB.  
